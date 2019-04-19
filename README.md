@@ -1,10 +1,3 @@
-# Speech Service Private Preview Features - DRAFT - Please Ignore
-
-Quickstart | Description 
------------- | -------------
-[Organization Speech Model](https://github.com/MicrosoftDocs/SpeechService/tree/master/quickstart/organization-speech-model/) | For O365 enterprise customers opting in for this service, system will automatically generate a custom model leveraging the existing O365 data set to deliver high speech accuracy with minimal cost. 
-
-
 
 # Contributing
 
