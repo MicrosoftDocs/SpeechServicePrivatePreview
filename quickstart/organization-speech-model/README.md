@@ -20,18 +20,18 @@ Tenant Admin go to Microsoft 365 Admin Center and turn on “Azure Speech Servic
 Application developers follow the instructions to install the Speech SDK NuGet package and add AAD Authentication code
 
 * Register your application in Azure to get client ID.
-  * Log in https://ms.portal.azure.com/ using an account under your tenant. 
-  * Click on "Azure Active Directory" and "App registrations".
-  * Click on "+New application registration" to register your application and get "Application ID".
-  * Refer to documentation for more details.
+ * Log in https://ms.portal.azure.com/ using an account under your tenant. 
+ *Click on "Azure Active Directory" and "App registrations".
+ * Click on "+New application registration" to register your application and get "Application ID".
+ * Refer to documentation for more details.
   
       ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/ClientId.png)
 
 * Get client key.
-  * Click on the registered application name.
-  * Click on "Settings" --> "Keys".
-  * Create key and click on "Save" button.
-  * Copy the key "value" before leaving the page.  The value will be hidden next time. 
+ * Click on the registered application name.
+ * Click on "Settings" --> "Keys".
+ * Create key and click on "Save" button.
+ * Copy the key "value" before leaving the page.  The value will be hidden next time. 
    
       ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/Key.png)
   
