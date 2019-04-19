@@ -8,10 +8,10 @@ Note that Organization Speech Model is now in private preview with limited slots
 
 Thank you for your interest in Microsoft Speech to Text services. 
 
-# How to Onboard after Access is Granted
+## How to Onboard after Access is Granted
 ![OnboardingFlow](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/flow.png)
 
-## Offline Enrollment
+### Offline Enrollment
 Tenant Admin go to Microsoft 365 Admin Center and turn on “Azure Speech Service” toggle. 
 
 * Log in Microsoft 365 Admin Center https://admin.microsoft.com .
@@ -20,7 +20,7 @@ Tenant Admin go to Microsoft 365 Admin Center and turn on “Azure Speech Servic
 * Turn ON the toggle and click on "Save" button
 * To turn off tenant model, turn off the toggle and click on “Save” button.
 
-## Offline Onboarding
+### Offline Onboarding
 Application developers follow the instructions to install the Speech SDK NuGet package and add AAD Authentication code
 
 * Register your application in Azure to get client ID.
