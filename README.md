@@ -1,4 +1,4 @@
-# Speech Service Gated Preview Features
+# Speech Service Private Preview Features
 
 Quickstart | Description 
 ------------ | -------------
