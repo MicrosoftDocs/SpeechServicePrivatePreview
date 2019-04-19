@@ -1,12 +1,14 @@
-# Organization Speech Model (Private Preview) - Draft Version
+# Organization Speech Model (Private Preview) - Draft
 
 Speech transcription is becoming a very demanding functionality for both consumer users and enterprise users. The use cases range from intelligence agent, intelligent meeting, connected car, call center transcription, dictation, and video indexing. The key success factor in industry is whether the application can provide high speech recognition accuracy, where the technical challenge is how to adapt the model to your enterprises and customers. This in turn depends on how much high-quality data is used to train the model and optimize the model toward the vocabulary of your enterprise and your scenarios.   
  
 Now we offer Organization Speech Model on Azure through Speech Cognitive Service for 3rd party enterprise customers. With this service, you will be able to leverage your O365 assets to generate Organization Speech Model dedicated for your enterprise within compliance boundary in just a few steps. 
 
-Please note this feature is now in private preview with limited slots before open preview. Thank you for your interest in Microsoft Speech to Text services. 
+Note that Organization Speech Model is now in private preview with limited slots available through private invitations. Before we enroll you in the early-adopter program, please take a few minutes to let us know more about you and your project. By submitting this form, you acknowledge that the information you provide via this form may be used for market research and your application does not guarantee admission. You will be informed if your access is granted.
 
-# How to Onboard
+Thank you for your interest in Microsoft Speech to Text services. 
+
+# How to Onboard after Access is Granted
 ![OnboardingFlow](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/flow.png)
 
 ## Offline Enrollment
