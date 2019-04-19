@@ -1,13 +1,13 @@
 # Organization Speech Model
 
-Quickstart | Description 
------------- | -------------
-[Organization Speech Service](https://opensource.microsoft.com/codeofconduct/) | For O365 enterprise customers opting in for this service, system will automatically generate a custom model leveraging the existing O365 data set to deliver high speech accuracy with minimal cost. 
+Speech transcription is becoming a very demanding functionality for both consumer users and enterprise users. The use cases range from intelligence agent, intelligent meeting, connected car, call center transcription, dictation, and video indexing. The key success factor in industry is whether the application can provide high speech recognition accuracy, where the technical challenge is how to adapt the model to your enterprises and customers. This in turn depends on how much high-quality data is used to train the model and optimize the model toward the vocabulary of your enterprise and your scenarios.   
+ 
+Now we offer Organization Speech Model on Azure through Speech Cognitive Service for 3rd party enterprise customers. With this service, you will be able to leverage your O365 assets to generate Organization Speech Model dedicated for your enterprise within compliance boundary in just a few steps. 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+# How to Onboard
+![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/flow.png)
 
-# Offline Enrollment
+## Offline Enrollment
 Tenant Admin go to Microsoft 365 Admin Center and turn on “Azure Speech Service” toggle. 
 
 * Log in Microsoft 365 Admin Center https://admin.microsoft.com .
@@ -16,7 +16,7 @@ Tenant Admin go to Microsoft 365 Admin Center and turn on “Azure Speech Servic
 * Turn ON the toggle and click on "Save" button
 * To turn off tenant model, turn off the toggle and click on “Save” button.
 
-# Offline Onboarding
+## Offline Onboarding
 Application developers follow the instructions to install the Speech SDK NuGet package and add AAD Authentication code
 
 * Register your application in Azure to get client ID and key.
