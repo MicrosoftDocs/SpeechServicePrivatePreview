@@ -41,4 +41,19 @@ Application developers follow the instructions to install the Speech SDK NuGet p
   
 * Call speech service based on Sample Code with AAD Auth enabled. 
 
+## FAQ
+* Q: When should I use Organizational Speech Model?
+* A: If your enterprise’s jargon are available in Office 365 data (email, documents), and you want to improve speech recognition accuracy on these important terms, we recommend to opt in Organizational Speech Model.
+
+* Q: Which Office 365 data is being used? 
+* A: The service is currently trained with your company’s public communication emails. Later it will expand to include all the knowledge in your organization’s Office graph. The generated Organizational Speech Model is dedicated to only serve your enterprise with regular updates. 
+
+* Q: Is the model generation an eyes-off process? 
+* A: Yes, the model generation is an eyes-off process. It trains languages models for your organization in an eyes-off, privacy compliant environment. 
+
+* Q: What’s the difference of Organizational Speech Model and Custom Speech Model?​
+* A: Organizational Speech Model is based on O365 data with automatic regular updates, while custom model is based on user manually provided data. ​ They will compensate each other to optimize speech service in a more efficient way.
+
+* Q: How can I measure the performance of Organizational Speech Model? 
+* A: The model performance is proven positive based on internal experiment.  We will do offline measurement based on customer-provided test data before self-serve testing is enabled.
 
