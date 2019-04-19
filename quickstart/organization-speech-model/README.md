@@ -5,7 +5,7 @@ Speech transcription is becoming a very demanding functionality for both consume
 Now we offer Organization Speech Model on Azure through Speech Cognitive Service for 3rd party enterprise customers. With this service, you will be able to leverage your O365 assets to generate Organization Speech Model dedicated for your enterprise within compliance boundary in just a few steps. 
 
 # How to Onboard
-![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/flow.png)
+![OnboardingFlow](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/flow.png)
 
 ## Offline Enrollment
 Tenant Admin go to Microsoft 365 Admin Center and turn on “Azure Speech Service” toggle. 
@@ -24,11 +24,17 @@ Application developers follow the instructions to install the Speech SDK NuGet p
   * Click on "Azure Active Directory" and "App registrations"
   * Click on "+New application registration" to register your application and get "Application ID"
   * Refer to documentation for more details.
+  
+   ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/ClientId.png)
+
 * Get client key.
   * Click on the registered application name.
   * Click on "Settings" --> "Keys"
   * Create key and click on "Save" button.
   * Copy the key "value" before leaving the page.  The value will be hidden next time. 
-* Call speech service using Sample Code with AAD Auth. 
+   
+      ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/Key.png)
+  
+* Call speech service with Sample Code with AAD Auth. 
 
 
