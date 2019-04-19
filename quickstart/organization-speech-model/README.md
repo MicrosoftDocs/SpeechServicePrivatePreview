@@ -21,11 +21,11 @@ Application developers follow the instructions to install the Speech SDK NuGet p
 
 * Register your application in Azure to get client ID.
  * Log in https://ms.portal.azure.com/ using an account under your tenant. 
- *Click on "Azure Active Directory" and "App registrations".
+ * Click on "Azure Active Directory" and "App registrations".
  * Click on "+New application registration" to register your application and get "Application ID".
  * Refer to documentation for more details.
   
-      ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/ClientId.png)
+  ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/ClientId.png)
 
 * Get client key.
  * Click on the registered application name.
@@ -33,7 +33,7 @@ Application developers follow the instructions to install the Speech SDK NuGet p
  * Create key and click on "Save" button.
  * Copy the key "value" before leaving the page.  The value will be hidden next time. 
    
-      ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/Key.png)
+  ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/Key.png)
   
 * Call speech service with Sample Code with AAD Auth. 
 
