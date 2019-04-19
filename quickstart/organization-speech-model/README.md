@@ -52,8 +52,8 @@ Application developers follow the instructions to install the Speech SDK NuGet p
 * Q: Is the model generation an eyes-off process? 
 * A: Yes, the model generation is an eyes-off process. It trains languages models for your organization in an eyes-off, privacy compliant environment. 
 
-* Q: What’s the difference of Organizational Speech Model and Custom Speech Model?​
-* A: Organizational Speech Model is based on O365 data with automatic regular updates, while custom model is based on user manually provided data. ​ They will compensate each other to optimize speech service in a more efficient way.
+* Q: What’s the difference of Organizational Speech Model and Custom Speech Model?
+* A: Organizational Speech Model is based on O365 data with automatic regular updates, while custom model is based on user manually provided data. They will compensate each other to optimize speech service in a more efficient way.
 
 * Q: How can I measure the performance of Organizational Speech Model? 
 * A: The model performance is proven positive based on internal experiment.  We will do offline measurement based on customer-provided test data before self-serve testing is enabled.
