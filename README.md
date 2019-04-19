@@ -1,3 +1,10 @@
+# Speech Service Gated Preview Features
+
+Quickstart | Description 
+------------ | -------------
+[Organization Speech Service](https://opensource.microsoft.com/codeofconduct/) | For O365 enterprise customers opting in for this service, system will automatically generate a custom model leveraging the existing O365 data set to deliver high speech accuracy with minimal cost. 
+
+
 
 # Contributing
 
