@@ -39,6 +39,6 @@ Application developers follow the instructions to install the Speech SDK NuGet p
    
   ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/Key.png)
   
-* Call speech service empowered by Organization Speech Model based on Sample Code. 
+* Call speech service based on Sample Code with AAD Auth enabled. 
 
 
