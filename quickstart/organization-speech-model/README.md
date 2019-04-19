@@ -1,4 +1,4 @@
-# Organization Speech Model (Private Preview)
+# Organization Speech Model (Private Preview) - Draft Version
 
 Speech transcription is becoming a very demanding functionality for both consumer users and enterprise users. The use cases range from intelligence agent, intelligent meeting, connected car, call center transcription, dictation, and video indexing. The key success factor in industry is whether the application can provide high speech recognition accuracy, where the technical challenge is how to adapt the model to your enterprises and customers. This in turn depends on how much high-quality data is used to train the model and optimize the model toward the vocabulary of your enterprise and your scenarios.   
  
@@ -37,6 +37,6 @@ Application developers follow the instructions to install the Speech SDK NuGet p
    
   ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/Key.png)
   
-* Call Organization Speech Service based on Sample Code. 
+* Call speech service empowered by Organization Speech Model based on Sample Code. 
 
 
