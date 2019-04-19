@@ -42,6 +42,7 @@ Application developers follow the instructions to install the Speech SDK NuGet p
 * Call speech service based on Sample Code with AAD Auth enabled. 
 
 ## FAQ
+
 * Q: When should I use Organizational Speech Model?
 * A: If your enterprise’s jargon are available in Office 365 data (email, documents), and you want to improve speech recognition accuracy on these important terms, we recommend to opt in Organizational Speech Model.
 
@@ -56,4 +57,3 @@ Application developers follow the instructions to install the Speech SDK NuGet p
 
 * Q: How can I measure the performance of Organizational Speech Model? 
 * A: The model performance is proven positive based on internal experiment.  We will do offline measurement based on customer-provided test data before self-serve testing is enabled.
-
