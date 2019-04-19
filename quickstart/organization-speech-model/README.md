@@ -4,7 +4,7 @@ Speech transcription is becoming a very demanding functionality for both consume
  
 Now we offer Organization Speech Model on Azure through Speech Cognitive Service for 3rd party enterprise customers. With this service, you will be able to leverage your O365 assets to generate Organization Speech Model dedicated for your enterprise within compliance boundary in just a few steps. 
 
-Please note that this feature is now in Private Preview with limited slots. Thank you for your interest in Microsoft Speech to Text services. 
+Please note this feature is now in private preview with limited slots before open preview. Thank you for your interest in Microsoft Speech to Text services. 
 
 # How to Onboard
 ![OnboardingFlow](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/flow.png)
@@ -37,6 +37,6 @@ Application developers follow the instructions to install the Speech SDK NuGet p
    
   ![Alt Text](https://github.com/MicrosoftDocs/SpeechService/blob/master/quickstart/organization-speech-model/Key.png)
   
-* Call speech service with Sample Code with AAD Auth. 
+* Call Organization Speech Service based on Sample Code. 
 
 
